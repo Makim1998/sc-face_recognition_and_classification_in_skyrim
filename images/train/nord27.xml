@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>nord27</filename>
+  <path>C:\Users\Marko\projects\images\train\nord27.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nord</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>7</ymin>
+      <xmax>176</xmax>
+      <ymax>81</ymax>
+    </bndbox>
+  </object>
+</annotation>

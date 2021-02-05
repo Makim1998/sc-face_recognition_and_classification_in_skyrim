@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>woodelf</filename>
+  <path>C:\Users\Marko\projects\images\test\woodelf.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>woodelf</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1075</xmin>
+      <ymin>129</ymin>
+      <xmax>1241</xmax>
+      <ymax>380</ymax>
+    </bndbox>
+  </object>
+</annotation>
