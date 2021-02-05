@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>highelf18</filename>
+  <path>C:\Users\Marko\projects\images\train\highelf18.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>278</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>highelf</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>109</xmin>
+      <ymin>5</ymin>
+      <xmax>174</xmax>
+      <ymax>80</ymax>
+    </bndbox>
+  </object>
+</annotation>

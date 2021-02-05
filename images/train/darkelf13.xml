@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>darkelf13</filename>
+  <path>C:\Users\Marko\projects\images\train\darkelf13.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>279</width>
+    <height>499</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>darkelf</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>103</xmin>
+      <ymin>10</ymin>
+      <xmax>159</xmax>
+      <ymax>90</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>imperial22</filename>
+  <path>C:\Users\Marko\projects\images\train\imperial22.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>imperial</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>127</xmin>
+      <ymin>12</ymin>
+      <xmax>179</xmax>
+      <ymax>83</ymax>
+    </bndbox>
+  </object>
+</annotation>

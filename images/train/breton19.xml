@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>breton19</filename>
+  <path>C:\Users\Marko\projects\images\train\breton19.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>278</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>breton</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>119</xmin>
+      <ymin>40</ymin>
+      <xmax>165</xmax>
+      <ymax>111</ymax>
+    </bndbox>
+  </object>
+</annotation>

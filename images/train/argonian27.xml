@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>argonian27</filename>
+  <path>C:\Users\Marko\projects\images\train\argonian27.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>235</width>
+    <height>374</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>argonian</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>34</ymin>
+      <xmax>113</xmax>
+      <ymax>131</ymax>
+    </bndbox>
+  </object>
+</annotation>

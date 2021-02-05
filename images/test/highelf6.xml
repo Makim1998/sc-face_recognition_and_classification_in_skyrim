@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>highelf6</filename>
+  <path>C:\Users\Marko\projects\images\test\highelf6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>highelf</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1094</xmin>
+      <ymin>165</ymin>
+      <xmax>1271</xmax>
+      <ymax>402</ymax>
+    </bndbox>
+  </object>
+</annotation>
