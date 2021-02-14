@@ -1,0 +1,40 @@
+item {
+    id: 1
+    name: 'argonian'
+}
+item {
+    id: 2
+    name: 'breton'
+}
+item {
+    id: 3
+    name: 'darkelf'
+}
+item {
+    id: 4
+    name: 'highelf'
+}
+item {
+    id: 5
+    name: 'imperial'
+}
+item {
+    id: 6
+    name: 'khajiit'
+}
+item {
+    id: 7
+    name: 'nord'
+}
+item {
+    id: 8
+    name: 'orc'
+}
+item {
+    id: 9
+    name: 'redguard'
+}
+item {
+    id: 10
+    name: 'woodelf'
+}
